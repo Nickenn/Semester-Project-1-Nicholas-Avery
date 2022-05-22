@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+}
+
+
+main img {
+    border-radius: 10px;
+    min-width: 100px;
+    min-height: 100px;
+    max-width: 300px;
+    max-height: 500px;
+}
+
+main div {
+    border: 6px solid #fcd900;
+    border-radius: 15px;
+    margin: 40px 100px;
+    min-width: 200px;
+    max-width: 1200px;
+    margin: 50px auto;
+    font-size: 25px;
+}
+
+main p {
+    margin: 20px;
+}
+
+.anatomy-heart {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+.anatomy-torso {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+.anatomy-skeleton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+main h2 {
+    text-align: center;
+}
+
+
+@media (max-width:500px) {
+
+    main div {
+        
+        align-items: left;
+    }
+}
+
+@media (max-width:708px) {
+    main img {
+        max-width: 70%;
+    }
+
+}
+
+@media (max-width:550px) {
+
+    main img {
+        max-width: 200px;
+    }
+
+    main p {
+        font-size: 0.6em;
+    }
+}

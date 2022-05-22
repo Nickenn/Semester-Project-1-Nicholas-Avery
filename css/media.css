@@ -1,0 +1,49 @@
+@media (max-width: 500px) {
+  .logo {
+    display: flex;
+    border-radius: 3px;
+    max-width: 150px;
+    max-height: 100px;
+  }
+
+  .logo img {
+    padding: 0px 3px 0px 0px ;
+  }
+
+}
+
+
+@media (max-width: 830px) {
+
+.footer-container {
+  flex-direction: column;
+  margin-top: 20px;
+  padding-top: 25px;
+  padding-left: 0px;
+}
+
+}
+
+
+@media (min-width: 1073px) {
+    
+
+    
+  
+    nav {
+      display: block;
+      position: static;
+      margin-left: 25px;
+      display: none;
+        position: fixed;
+        top: 45px;
+        z-index: 1000px;
+        right: 100px;
+    }
+  
+    nav li {
+      display: inline-block;
+      padding: 10px;
+    }
+}
+

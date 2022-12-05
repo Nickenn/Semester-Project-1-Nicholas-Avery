@@ -1,4 +1,4 @@
-# RainyDays storefront website
+# Community Science Museum website
 
 ![image](https://user-images.githubusercontent.com/100228811/205712767-3f7bcd44-8499-4558-80a2-66426d255fd2.jpg)
 

@@ -1,12 +1,12 @@
 # RainyDays storefront website
 
-![image](https://user-images.githubusercontent.com/100228811/205624540-051595da-6f79-4c43-952b-4b35438ee7cd.jpg)
+![image](https://user-images.githubusercontent.com/100228811/205712767-3f7bcd44-8499-4558-80a2-66426d255fd2.jpg)
 
 
-Museum page for a national science museum 
+Museum page for a community science museum 
 
 ## Description
-In this project created a site for a science museum with different departments. It has a technology, astronomi and antomi page. Aswell as an about and contact page. 
+In this project created a site for a community science museum with different departments. It has a technology, astronomi and antomi page. Aswell as an about and contact page. 
 
 You can add some bullet points if you'd like to:
 

@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/100228811/205712767-3f7bcd44-8499-4558-80a2-66426d255fd2.jpg)
 
 
-Museum page for a community science museum 
+Website for a community science museum 
 
 ## Description
 In this project I created a site for a community science museum with different departments. It has a technology, astronomi and antomi page. Aswell as an about and contact page. 
@@ -57,10 +57,4 @@ Here you can detail any information you want to provide regarding contributing t
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
-
-[My LinkedIn page](www.linkedin.com)
-
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+[My LinkedIn page](https://www.linkedin.com/in/nicholas-avery-85415024a/)

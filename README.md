@@ -8,12 +8,6 @@ Website for a community science museum
 ## Description
 In this project I created a site for a community science museum with different departments. It has a technology, astronomi and antomi page. Aswell as an about and contact page. 
 
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
-
 ## Built With
 
 You can list a the tech stack that you've used over here
